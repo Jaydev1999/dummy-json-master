@@ -1,4 +1,4 @@
-// export const environment = {
-//     production: false,
-//     baseURL: 'https://dummyjson.com'
-// };
+export const environment = {
+    production: false,
+    baseURL: 'https://dummyjson.com'
+};
